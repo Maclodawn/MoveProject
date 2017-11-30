@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D715CCF8-4ECA-E398-2222-79A8DF966A55}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "MoveProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
